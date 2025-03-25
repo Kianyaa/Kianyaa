@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kianya</h1>
 <h3 align="center">Economist | Data scientist in some university</h3>
 
-
+* Currently just interested in C# Programming
+* Learn more about database procedural
 
 
 # 💻 Tech Skill:
