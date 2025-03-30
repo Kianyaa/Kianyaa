@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Kianya</h1>
-<h3 align="center">Economist | Data scientist in some university</h3>
+<h1 align="center">Hello Greeting! 🐱, I'm Kianya</h1>
+<h3 align="center">Economist | Data scientist in some university</h3> <br>
 
-* Currently just interested in C# Programming
-* Learn more about database procedural
+Usually working on the Data and Machine Learning field but also interested in C# coding in .NET Framework too, Currently making CS2 Plugin as a hobby.
 
+<hr>
+<h3> Counter-Strike 2 Plugins : </h3>
+
+- CS2-TimeScale
+- [CS2-ButtonWatcher](https://github.com/Kianyaa/CS2-ButtonWatcher)
+- [CS2-AdminRoom](https://github.com/Kianyaa/CS2-AdminRoom)
+- [CS2-AllCommandOnChat](https://github.com/Kianyaa/CS2-AllCommandOnChat)
+
+#### Tools :
+- [StripperCS2 Translator](https://github.com/Kianyaa/CS2-map-text-translator)
+<hr>
 
 # 💻 Tech Skill:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
