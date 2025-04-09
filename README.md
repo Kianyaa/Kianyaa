@@ -6,7 +6,7 @@ Usually working on the Data and Machine Learning field but also interested in C#
 <hr>
 <h3> Counter-Strike 2 Plugins : </h3>
 
-- [CS2-CS2-FlyTo](https://github.com/Kianyaa/CS2-FlyTo)
+- [CS2-FlyTo](https://github.com/Kianyaa/CS2-FlyTo)
 - [CS2-CustomCheer](https://github.com/Kianyaa/CS2-CustomCheer)
 - [CS2-ServerTimeScale](https://github.com/Kianyaa/CS2-ServerTimeScale)
 - [CS2-ButtonWatcher](https://github.com/Kianyaa/CS2-ButtonWatcher)
