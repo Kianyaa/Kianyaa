@@ -3,6 +3,11 @@
 
 Usually working on the Data and Machine Learning field but also interested in C# coding in .NET Framework too, Currently making CS2 Plugin as a hobby.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51ba6412-9b45-4cd0-b7e3-09a465cf224c" width="100%" alt="banner83">
+</p>
+
+
 <hr>
 <h3> Counter-Strike 2 Plugins : </h3>
 
